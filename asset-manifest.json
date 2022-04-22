@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/AndriiPylypiuk07/social-network01.git/static/css/main.91826990.css",
+    "main.js": "/AndriiPylypiuk07/social-network01.git/static/js/main.bec1800e.js",
+    "static/css/254.4ab1acce.chunk.css": "/AndriiPylypiuk07/social-network01.git/static/css/254.4ab1acce.chunk.css",
+    "static/js/254.c07bd854.chunk.js": "/AndriiPylypiuk07/social-network01.git/static/js/254.c07bd854.chunk.js",
+    "static/css/815.ce29355c.chunk.css": "/AndriiPylypiuk07/social-network01.git/static/css/815.ce29355c.chunk.css",
+    "static/js/815.7143c646.chunk.js": "/AndriiPylypiuk07/social-network01.git/static/js/815.7143c646.chunk.js",
+    "static/css/797.57c07dc6.chunk.css": "/AndriiPylypiuk07/social-network01.git/static/css/797.57c07dc6.chunk.css",
+    "static/js/797.d426675f.chunk.js": "/AndriiPylypiuk07/social-network01.git/static/js/797.d426675f.chunk.js",
+    "static/css/827.4bb305ca.chunk.css": "/AndriiPylypiuk07/social-network01.git/static/css/827.4bb305ca.chunk.css",
+    "static/js/827.54793678.chunk.js": "/AndriiPylypiuk07/social-network01.git/static/js/827.54793678.chunk.js",
+    "static/js/787.0b8fb66e.chunk.js": "/AndriiPylypiuk07/social-network01.git/static/js/787.0b8fb66e.chunk.js",
+    "static/js/615.cb404f39.chunk.js": "/AndriiPylypiuk07/social-network01.git/static/js/615.cb404f39.chunk.js",
+    "static/media/user.png.png": "/AndriiPylypiuk07/social-network01.git/static/media/user.png.3b65a6e573e3742e5d71.png",
+    "static/media/loadfd.gif": "/AndriiPylypiuk07/social-network01.git/static/media/loadfd.c517a3f80060c8026ad6.gif",
+    "index.html": "/AndriiPylypiuk07/social-network01.git/index.html",
+    "main.91826990.css.map": "/AndriiPylypiuk07/social-network01.git/static/css/main.91826990.css.map",
+    "main.bec1800e.js.map": "/AndriiPylypiuk07/social-network01.git/static/js/main.bec1800e.js.map",
+    "254.4ab1acce.chunk.css.map": "/AndriiPylypiuk07/social-network01.git/static/css/254.4ab1acce.chunk.css.map",
+    "254.c07bd854.chunk.js.map": "/AndriiPylypiuk07/social-network01.git/static/js/254.c07bd854.chunk.js.map",
+    "815.ce29355c.chunk.css.map": "/AndriiPylypiuk07/social-network01.git/static/css/815.ce29355c.chunk.css.map",
+    "815.7143c646.chunk.js.map": "/AndriiPylypiuk07/social-network01.git/static/js/815.7143c646.chunk.js.map",
+    "797.57c07dc6.chunk.css.map": "/AndriiPylypiuk07/social-network01.git/static/css/797.57c07dc6.chunk.css.map",
+    "797.d426675f.chunk.js.map": "/AndriiPylypiuk07/social-network01.git/static/js/797.d426675f.chunk.js.map",
+    "827.4bb305ca.chunk.css.map": "/AndriiPylypiuk07/social-network01.git/static/css/827.4bb305ca.chunk.css.map",
+    "827.54793678.chunk.js.map": "/AndriiPylypiuk07/social-network01.git/static/js/827.54793678.chunk.js.map",
+    "787.0b8fb66e.chunk.js.map": "/AndriiPylypiuk07/social-network01.git/static/js/787.0b8fb66e.chunk.js.map",
+    "615.cb404f39.chunk.js.map": "/AndriiPylypiuk07/social-network01.git/static/js/615.cb404f39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91826990.css",
+    "static/js/main.bec1800e.js"
+  ]
+}
